@@ -1,0 +1,10 @@
+C:\Users\79525\source\repos\net_task2_19\net_task2_19\bin\Debug\net_task2_19.exe.config
+C:\Users\79525\source\repos\net_task2_19\net_task2_19\bin\Debug\net_task2_19.exe
+C:\Users\79525\source\repos\net_task2_19\net_task2_19\bin\Debug\net_task2_19.pdb
+C:\Users\79525\source\repos\net_task2_19\net_task2_19\obj\Debug\net_task2_19.csproj.AssemblyReference.cache
+C:\Users\79525\source\repos\net_task2_19\net_task2_19\obj\Debug\net_task2_19.Properties.Resources.resources
+C:\Users\79525\source\repos\net_task2_19\net_task2_19\obj\Debug\net_task2_19.csproj.GenerateResource.cache
+C:\Users\79525\source\repos\net_task2_19\net_task2_19\obj\Debug\net_task2_19.csproj.CoreCompileInputs.cache
+C:\Users\79525\source\repos\net_task2_19\net_task2_19\obj\Debug\net_task2_19.exe
+C:\Users\79525\source\repos\net_task2_19\net_task2_19\obj\Debug\net_task2_19.pdb
+C:\Users\79525\source\repos\net_task2_19\net_task2_19\obj\Debug\net_task2_19.Form1.resources
